@@ -44,7 +44,7 @@ This project applies **Machine Learning** techniques to predict the severity of 
 ## 📢 Contact
 For queries, feel free to reach out!  
 📧 Email: [your.email@example.com](mailto:punnasurya2000@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofil](https://www.linkedin.com/in/surya-punna-35579016b/)e)  
+ 
 
 ---
 
